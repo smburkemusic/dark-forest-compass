@@ -1,6 +1,3 @@
-st.warning("⚠️ NEW VERSION LOADED — Stockfish auto-analysis enabled")
-
-
 import re
 import os
 import stat
